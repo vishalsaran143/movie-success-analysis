@@ -10,10 +10,7 @@
 - Continuous growth from 2010 to 2019  
 - Sharp drop in 2020 due to COVID  
 - Gradual recovery after 2021  
-
-**Business Impact:**
-- Movie industry is highly affected by external events  
-- Strong recovery capability after downturns
+ 
 
 ## 🎬 Hit vs Flop Distribution
 
@@ -25,7 +22,4 @@
 **Insight:**
 - Majority movies are hits  
 - A significant portion still fails  
-
-**Business Impact:**
-- Movie industry has moderate risk  
-- Not every project guarantees success
+ 
